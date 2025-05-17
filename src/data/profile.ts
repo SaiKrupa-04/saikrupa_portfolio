@@ -144,7 +144,7 @@ export const responsibilities = [
     },
   },
   {
-    title: "Tech Number",
+    title: "Tech Member",
     organization: "Cloud Community Club (Open Source Club)",
     
     description:
