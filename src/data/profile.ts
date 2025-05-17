@@ -4,7 +4,7 @@ export const profile = {
   summary:
     "I'm a passionate Computer Science Engineering student with a strong foundation in full-stack development. Currently in my third year, I'm focused on creating intuitive and efficient software solutions while continuously expanding my technical skills.",
   contact: {
-    email: "saikrupachinthalapally01@example.com",
+    email: "saikrupachinthalapally01@gmail.com",
     phone: "+91 9985853308",
     linkedin: "www.linkedin.com/in/saikrupa-chinthalapally-1181ba283",
     github: "https://github.com/Saikrupa-04",
